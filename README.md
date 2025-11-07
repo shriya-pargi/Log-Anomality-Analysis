@@ -1,11 +1,11 @@
-# 🧠 ThreatHuntAI: Intelligent Log Anomaly Detection
+#  ThreatHuntAI: Intelligent Log Anomaly Detection
 
 **ThreatHuntAI** is an intelligent anomaly detection system designed for analyzing large-scale system or security logs using **machine learning and NLP techniques**.  
 It detects irregular log patterns using **TF-IDF vectorization**, **BERT/SentenceTransformer embeddings**, and **Isolation Forest models**, offering both statistical and semantic insights into anomalies.
 
 ---
 
-## 🚀 Features
+##  Features
 
 - **Data Cleaning & Preprocessing**
   - Removes IPs, timestamps, digits, and special symbols.
@@ -44,7 +44,7 @@ It detects irregular log patterns using **TF-IDF vectorization**, **BERT/Sentenc
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 ├── HDFS_2k.log                                                                  
 Sample dataset (logs)                                                                                   
 ├── threathunt_main.ipynb                                                                                        
@@ -68,3 +68,5 @@ cd ThreatHuntAI
 
 # Install dependencies
 pip install -r requirements.txt
+
+
